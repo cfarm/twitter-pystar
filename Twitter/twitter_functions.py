@@ -1,6 +1,7 @@
 import twitter
 import util
 
+# city id for getting tweets by location
 PHILA_WOEID = 2471217
 
 def search(searchTerm):
